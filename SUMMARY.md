@@ -11,6 +11,7 @@
   * [2.1 进入c++](di-2-zhang-kai-shi-xue-xi-c-++/21-jin-ru-c-++.md)
 * [第4章 复合类型](di-4-zhang-fu-he-lei-xing.md)
   * [4.7 指针和自由存储空间](di-4-zhang-fu-he-lei-xing/47-zhi-zhen-he-zi-you-cun-chu-kong-jian.md)
+    * [4.7.1 声明和初始化指针](di-4-zhang-fu-he-lei-xing/47-zhi-zhen-he-zi-you-cun-chu-kong-jian/471-sheng-ming-he-chu-shi-hua-zhi-zhen.md)
 * [第7章 函数--c++的编程模块](di-7-zhang-han-6570-c-de-bian-cheng-mo-kuai.md)
   * [7.3 函数和数组](73-han-shu-he-shu-zu.md)
     * [7.3.1 函数如何使用指针来处理数组](73-han-shu-he-shu-zu/731-han-shu-ru-he-shi-yong-zhi-zhen-lai-chu-li-shu-zu.md)
