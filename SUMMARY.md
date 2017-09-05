@@ -9,4 +9,5 @@
   * [1.3 可移植性和标准](di-yi-zhang/13-ke-yi-zhi-xing-he-biao-zhun.md)
 * [第2章 开始学习c++](di-2-zhang-kai-shi-xue-xi-c-++.md)
   * [2.1 进入c++](di-2-zhang-kai-shi-xue-xi-c-++/21-jin-ru-c-++.md)
+* 第7章 函数--c++的编程模块
 
