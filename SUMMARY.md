@@ -23,4 +23,5 @@
   * [16.2 智能指针模板类](162-zhi-neng-zhi-zhen-mo-ban-lei.md)
   * [16.4 泛型编程](164-fan-xing-bian-cheng.md)
     * [16.4.1 为何使用迭代器](164-fan-xing-bian-cheng/1641-wei-he-shi-yong-die-dai-qi.md)
+    * 16.4.2 迭代器类型
 
