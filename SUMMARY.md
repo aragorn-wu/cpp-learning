@@ -9,6 +9,8 @@
   * [1.3 可移植性和标准](di-yi-zhang/13-ke-yi-zhi-xing-he-biao-zhun.md)
 * [第2章 开始学习c++](di-2-zhang-kai-shi-xue-xi-c-++.md)
   * [2.1 进入c++](di-2-zhang-kai-shi-xue-xi-c-++/21-jin-ru-c-++.md)
+  * 2.4 函数
+    * 2.4.5 在多函数程序红使用using编译指令
 * [第4章 复合类型](di-4-zhang-fu-he-lei-xing.md)
   * [4.7 指针和自由存储空间](di-4-zhang-fu-he-lei-xing/47-zhi-zhen-he-zi-you-cun-chu-kong-jian.md)
     * [4.7.1 声明和初始化指针](di-4-zhang-fu-he-lei-xing/47-zhi-zhen-he-zi-you-cun-chu-kong-jian/471-sheng-ming-he-chu-shi-hua-zhi-zhen.md)
