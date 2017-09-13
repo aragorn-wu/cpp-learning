@@ -22,7 +22,7 @@
   * [7.10 函数指针](710-han-shu-zhi-zhen.md)
     * [7.10.1 函数指针的基础知识](710-han-shu-zhi-zhen/7101-han-shu-zhi-zhen-de-ji-chu-zhi-shi.md)
 * [第8章 函数探幽](di-8-zhang-han-shu-tan-you.md)
-  * 8.1 内联函数
+  * [8.1 内联函数](di-8-zhang-han-shu-tan-you/81-nei-lian-han-shu.md)
 * 第16章 string类和标准模板库
   * [16.2 智能指针模板类](162-zhi-neng-zhi-zhen-mo-ban-lei.md)
   * [16.4 泛型编程](164-fan-xing-bian-cheng.md)
