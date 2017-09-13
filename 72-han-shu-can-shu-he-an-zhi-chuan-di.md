@@ -1,7 +1,7 @@
 对于函数：
 
 ```cpp
-double volume =cube(sile);
+double volume =cube(side);
 ```
 
 其中，sile是一个变量，假如它为5。当函数被调用时，该函数将创建一个新的名为x的double变量，并将其初始化为5。
