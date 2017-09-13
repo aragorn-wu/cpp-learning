@@ -19,6 +19,7 @@
   * [7.3 函数和数组](73-han-shu-he-shu-zu.md)
     * [7.3.1 函数如何使用指针来处理数组](73-han-shu-he-shu-zu/731-han-shu-ru-he-shi-yong-zhi-zhen-lai-chu-li-shu-zu.md)
     * [7.3.2 将数据作为参数意味着什么](73-han-shu-he-shu-zu/732-jiang-shu-ju-zuo-wei-can-shu-yi-wei-zhao-shi-yao.md)
+  * [7.6 函数和结构](76-han-shu-he-jie-gou.md)
   * [7.10 函数指针](710-han-shu-zhi-zhen.md)
     * [7.10.1 函数指针的基础知识](710-han-shu-zhi-zhen/7101-han-shu-zhi-zhen-de-ji-chu-zhi-shi.md)
 * [第8章 函数探幽](di-8-zhang-han-shu-tan-you.md)
